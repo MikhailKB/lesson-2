@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Console;
 
-namespace lesson___1
+namespace lesson___2
 {
     internal class Program
     {
